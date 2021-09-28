@@ -1,0 +1,2 @@
+rootProject.name = "Gamework"
+include ':app'

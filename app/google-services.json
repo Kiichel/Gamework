@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "360485890741",
+    "firebase_url": "https://gamework-64fc3-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "gamework-64fc3",
+    "storage_bucket": "gamework-64fc3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:360485890741:android:30b1c2be7b13dd0425ecfc",
+        "android_client_info": {
+          "package_name": "com.example.gamework"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "360485890741-vmv88g55rn285njq5u2l0om9c5k674jv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gamework",
+            "certificate_hash": "7100fb3b00b5a72845d5546f012de7133281582d"
+          }
+        },
+        {
+          "client_id": "360485890741-qq051jir6jnm1vc33i1n8ocndq3pk3pi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL3loOqJ1YbfZQCPG4bAnPT0gC57x5a2s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "360485890741-qq051jir6jnm1vc33i1n8ocndq3pk3pi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
