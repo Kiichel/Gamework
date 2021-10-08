@@ -11,7 +11,12 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Gamework">
-        <activity android:name=".reg.SignUpActivity"></activity>
+        <activity android:name=".student.SurpriseStActivity"></activity>
+        <activity android:name=".student.CollectionStudentActivity" />
+        <activity android:name=".student.HomeworkActivity" />
+        <activity android:name=".student.StudentMainActivity" />
+        <activity android:name=".teacher.TeacherMainActivity" />
+        <activity android:name=".reg.SignUpActivity" />
         <activity android:name=".reg.SignInActivity" />
         <activity android:name=".MainActivity">
             <intent-filter>
